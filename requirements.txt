@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+easyocr==1.7.2
+Flask==2.3.3
+numpy==1.26.4
+scikit-learn==1.4.2
+pillow==10.3.0
+pandas==2.2.2
+matplotlib==3.9.0
+seaborn==0.13.2
+nltk==3.9.2
+gunicorn==21.2.0
